@@ -1,4 +1,10 @@
-## Hi there 👋
+## Halo Semua 👋
+
+Perkenalkan nama saya **Icha Prisylia Br Ginting**.<br>
+
+Saya seorang **Mahasiswar** di [Politeknik Negeri Banyuwangi](https://poliwangi.ac.id/).<br>
+
+Jika anda tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://www.linkedin.com/in/ichaginting03).<br>
 
 <!--
 **icaginting/icaginting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
